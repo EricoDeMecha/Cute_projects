@@ -11,5 +11,4 @@
 
 ## Getting  started
 
-
-Qt can  run anywhere, so long as you want it to.
+**Qt Version** : 5.12
